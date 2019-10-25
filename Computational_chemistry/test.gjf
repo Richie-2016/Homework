@@ -1,0 +1,12 @@
+%Chk=H2O_Opt
+# HF/6-31G** Opt
+
+Water(C2V), optimization
+
+ 0 1
+ O
+ H  1 R
+ H  1 R   2 A
+    Variables:
+ R= 0.89
+ A= 105.
