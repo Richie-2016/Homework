@@ -1,0 +1,4 @@
+﻿  glad.c
+  main.cpp
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Homework_1.vcxproj -> D:\Study\Homework\CAD\Homework_1\Homework_1\x64\Debug\Homework_1.exe
